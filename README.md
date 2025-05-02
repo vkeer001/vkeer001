@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vkeer001
 - 👀 I’m interested in Everything Cell and Gene Medicine
 - 🌱 I’m currently learning to code in Python and understand how to use machine learning to design better medicines 
-- 💞️ I’m looking to collaborate on investigational and translational cell and gene therapies
+- 💞️ I’m looking to collaborate on investigational and translational cell and gene therapies and functional genomics technologies
 - 📫 How to reach me vkeerthi@stanford.edu or vimal.keerthi@gmail.com or vimal.keerthi@umontreal.ca
 
 <!---
